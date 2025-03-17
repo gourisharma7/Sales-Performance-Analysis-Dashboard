@@ -5,7 +5,7 @@ This project analyzes 5,000 rows of sales data to uncover revenue trends, produc
 
 Implementation
 
-Data Extraction & Processing: Queried and structured sales data using SQL.
+Data Extraction & Processing: Queried and structured sales data using SQL and Excel.
 
 Data Aggregation: Calculated total units sold, revenue, and order trends using JOINs and GROUP BY.
 
